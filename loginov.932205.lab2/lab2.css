@@ -1,0 +1,384 @@
+body {
+        margin: 0;
+        padding: 0;
+    }
+.header21_22 {
+        height: 50px;
+	background-color: #EAEAEA;
+        font-size: 20px;
+        padding-top: 7px;
+        padding-left: 7px;
+    }
+.content21 {
+        height: auto;
+        background-color: #C8FC98;
+        width: 200px;
+        padding: 1px 7px 7px 7px;
+        line-height: 1.25;
+        float: left;
+        margin-right: 10px;
+    }
+.content22_0 {
+        height: auto;
+        background-color: #C8FC98;
+        width: 25%;
+        padding: 1px 7px 7px 7px;
+        line-height: 1.25;
+        float: left;
+        margin-right: 10px;
+    }
+.content22_1 {
+        height: auto;
+        background-color: #FDE95E;
+        width: 200px;
+        line-height: 1.25;
+        padding: 1px 7px 7px 7px;
+        float: right;
+}
+.content21_22 {
+        padding: 1px 7px 7px 7px;
+        line-height: 1.25;
+    }
+.footer21_22 {
+        height: 30px;
+        background-color: black;
+        text-align: center;
+        clear: both;
+}
+.content23 {
+        height: auto;
+        width: 600px;
+        background-color: blue;
+        color: white;
+        margin: 10px auto;
+}
+.content24 {
+	height:auto;
+	max-width:600px;
+	width:auto;
+        background-color: blue;
+        color: white;
+	  margin: 10px;
+}
+.content25_0{
+	height:auto;
+	width:500px;
+        background-color: green;
+        color: white;
+        margin: 25px auto;
+}
+.content25_1{
+	height:auto;
+	width:500px;
+	border:50px solid blue;
+        background-color: blue;
+        color: white;
+        margin: auto;
+}
+.content26_0{
+	height:auto;
+	width:500px;
+        color: black;
+        margin: 25px auto;
+}
+.content26_1{
+	height:auto;
+	width:500px;
+	-moz-box-sizing: border-box;  
+	box-sizing: border-box;
+	border:10px solid blue;
+	padding: 40px;
+        color: black;
+        margin: auto;
+}
+.content27_0{
+	height:100px;
+	width:150px;
+	position:static;
+        color: white;
+	background-color:blueviolet;
+	margin:10px 0px 0px 10px;
+}
+.content27_1{
+	height:100px;
+	width:150px;
+	position:relative;
+        color: white;
+	background-color:darkred;
+	margin:0px 0px 0px 10px;
+}
+.content27_2{
+	height:100px;
+	width:150px;
+	position:relative;
+        color: white;
+	background-color: peru;
+	margin:0px 0px 0px 10px;
+	left: 25px;
+	top: -30px;
+}
+.content27_3{
+	height:100px;
+	width:100px;
+	position:fixed;
+        color: white;
+	background-color:forestgreen;
+	right:0px;
+	bottom: 0px;
+}
+.content27_4{
+	height:400px;
+	width:650px;
+	position:relative;
+        color: white;
+	background-color:indianred;
+	margin:0px 0px 0px 10px;
+}
+.content27_5{
+	height:250px;
+	width:350px;
+	position:absolute;
+        color: white;
+	background-color:indigo;
+	right:0px;
+	bottom: 60px;
+}
+.content28_0{
+	height:auto;
+	width:auto;
+	border-spacing:0px;
+	padding: 0px;
+	background-color:aqua;
+	margin: 10px;
+}
+.content28_1{
+	height:50px;
+	width:150px;
+	padding: 15px;
+        color: black;
+	background-color:bisque;
+}
+.content28_2{
+	height:auto;
+	width:auto;
+        color: black;
+	background-color:darkgray;
+}
+.footer28{
+        height: 50px;
+	width: 100%;
+        background-color: limegreen;
+	position: fixed;
+	bottom:0px;
+}
+.content29_0 {
+        height: auto;
+        width: 600px;
+        background-color: blue;
+        color: white;
+        margin: 10px;
+}
+.content29_1 {
+        height: auto;
+        width: auto;
+	margin:0px 0px 25px 25px;
+	float:right;
+}
+.content210_0 {
+        height: 100px;
+        width: 200px;
+	margin:25px;
+	float:left;
+	color: black;
+	background-color:aquamarine;
+}
+.content210_1 {
+        height: auto;
+        width: max;
+	margin:5px;
+	clear: both;
+	color:black;
+	background-color:bisque;
+}
+.content211_0 {
+	height:auto;
+	min-height:265px;
+	width:max;
+	margin: 10px;
+	border: 2px solid green;
+	color:black;
+	background-color: aqua;
+}
+.content211_1 {
+	float:right;
+}
+.content212_0{
+	height:auto;
+	width:auto;
+	border-spacing:0px;
+
+	background-color:aqua;
+	margin: 10px;
+	border: 2px solid green;
+	
+
+}
+.content212_1{
+	height:50px;
+	width:15%;
+	padding:0.7%;
+float:left;
+        color: black;
+	background-color:bisque;
+
+}
+.content212_2{
+	height:auto;
+	width:auto;
+margin: 0px 0.5% 0px 16.7%;	
+     color: black;
+	background-color:darkgray;
+
+}
+.content213_0{
+	height:auto;
+	width:auto;
+	border-spacing:0px;
+	padding: 0px;
+	background-color:aqua;
+	margin: 10px;
+	border: 2px solid green;
+
+}
+.content213_1{
+	height:50px;
+	width:100%;
+	padding: 15px;
+        color: black;
+	background-color:bisque;
+}
+.content213_2{
+	height:auto;
+	width:auto;
+        color: black;
+	background-color:darkgray;
+}
+.content213_3{
+	height:40%;
+	width:40%;
+float:right;
+	background-color:darkgray;
+}
+.content214_0{
+	height:auto;
+	width:auto;
+	border-spacing:0px;
+	position:relative;
+
+	background-color:aqua;
+	margin: 10px;
+	border: 2px solid green;	
+
+}
+.content214_1{
+	height:50px;
+	width:50%;
+	padding:0.7%;
+	position:absolute;
+	z-index:1;
+	float:left;
+        color: black;
+	background-color:bisque;
+
+}
+.content214_1 li{
+	 	display: list-item;
+}
+
+.content214_2{
+	height:auto;
+	width:auto;
+	position:relative;
+	z-index:2;
+margin: 0px 0px 0px 17%;	
+     color: black;
+	background-color:darkgray;
+
+}
+.content215_0{
+	display:grid;
+height:95%;
+	width:95%;
+	 	 margin: 20px;
+
+     grid-template-columns: repeat(auto-fill, minmax(150px, 	1fr));
+     grid-gap: 70px;
+     color: black;
+
+}
+.content215_0 > div{
+	 background-color:aquamarine;
+	 width:200px;
+	 height:100px;	
+}
+.content215_1{
+	height:auto;
+	width:max;
+	background-color:bisque;
+	margin: 0px 5px;
+}
+
+@media screen and (max-width: 800px) {
+	.content212_1{
+	height:50px;
+	width:90px;
+	padding:20px;
+float:left;
+     color: black;
+	background-color:bisque;
+
+}
+	.content212_2 {
+	height:auto;
+	width:70%;
+	margin:0%;
+	clear:left;
+	float:left;
+     color: black;
+	background-color:darkgray;
+
+	}
+.content214_1{
+	height:auto;
+	width:auto;
+	left:0px;
+	right:0px;
+margin: 40px 0px 0px 0px;	
+     color: black;
+		position:none;
+	background-color:bisque;
+	text-indent: 40px;
+}
+
+	.content214_1 li{
+	 	display: inline;
+}
+
+	.content214_2{
+	height:auto;
+	width:auto;
+	margin: 100px 0px 0px 0px;	
+     color: black;
+	background-color:darkgray;
+	clear:left;
+}
+
+}
+
+td{
+	vertical-align: top;
+	padding:0px;
+}
+p{
+	margin:0px;
+}
